@@ -1,0 +1,6 @@
+{
+    "status": "absent",
+    "allowed_next": [
+        "present"
+    ]
+}
